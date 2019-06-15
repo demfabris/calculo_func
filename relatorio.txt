@@ -1,12 +1,12 @@
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   REYSSOL COMERCIO E SERVIÇOS    CNPJ:     00.218.960/0001-22        Horário13:20 16:40 17:40 21:40       
     FuncionárioADILSON CICARELLI - 109101     Admissão: 17/04/2019                Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     10/06/2019 09:14:42                                           
+    Loc.                                      Último     14/06/2019 07:53:45                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Qua -                                                  07:20                                                       
@@ -57,13 +57,13 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   FORGERINI E INOUYE LTDA -      CNPJ:     67.379.743/0002-76        Horário11:00 16:00 17:00 23:00       
     FuncionárioADRIANO FERREIRA - 33          Admissão:                           Cargo:                               
-    Loc.rtament                               Últimoênci 10/06/2019 07:39:35      Período16/04/2019 à 19/05/2019       
+    Loc.rtament                               Últimoênci 14/06/2019 07:53:58      Período16/04/2019 à 19/05/2019       
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Ter -                                                              Folga;                                          
@@ -115,14 +115,14 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   FORGERINI E INOUYE LTDA        CNPJ:     67.379.743/0001-95        Horário05:00 12:00 13:00 17:00       
     FuncionárioAGNALDO DONIZETTE DA SILVA -   Admissão:                           Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     10/06/2019 07:40:00                                           
+    Loc.                                      Último     14/06/2019 07:54:04                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Qua -    04:55 12:18 13:20 17:16           11:08 11:19 11:00       Folga;                                          
@@ -173,14 +173,14 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   POSTO PANTANAL CRUZEIRO DO SUL CNPJ:     02.845.415/0001-91        Horário17:00 19:30 19:45 22:00       
     FuncionárioAMILTON FERNANDES - 122        Admissão:                           Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     10/06/2019 08:33:20                                           
+    Loc.                                      Último     14/06/2019 12:04:20                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Qua -    17:00 19:45 20:02 22:00           04:43 04:43 04:45       Folga;                                          
@@ -231,13 +231,13 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   POSTO PANTANAL FENIX LTDA      CNPJ:     05.654.707/0001-35        Horário05:00 12:00 13:00 17:00       
     FuncionárioANDERSON DONIZETI MUNHOZ - 157 Admissão:                           Cargo:                               
-    Loc.rtament                               Últimoênci 10/06/2019 07:42:15      Período16/04/2019 à 19/05/2019       
+    Loc.rtament                               Últimoênci 14/06/2019 07:54:30      Período16/04/2019 à 19/05/2019       
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Ter -                                                              Folga;                                          
@@ -289,14 +289,14 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   FORGERINI E INOUYE LTDA -      CNPJ:     67.379.743/0002-76        Horário18:00 23:00 00:00 06:00       
     FuncionárioANDERSON JOSE APARECIDO        Admissão:                           Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     10/06/2019 07:42:20                                           
+    Loc.                                      Último     14/06/2019 07:55:03                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Qua -    18:07 22:07 23:07* 06:00          10:53 10:53 11:00       ESQUECEU DIGITAL;                               
@@ -347,7 +347,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -405,7 +405,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -463,7 +463,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -521,7 +521,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -579,7 +579,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -637,7 +637,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -695,7 +695,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -753,7 +753,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -811,7 +811,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -869,7 +869,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -927,7 +927,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -985,7 +985,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1043,7 +1043,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1101,7 +1101,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1159,7 +1159,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1217,7 +1217,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1275,7 +1275,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1333,7 +1333,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1391,7 +1391,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1449,7 +1449,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1507,7 +1507,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1565,7 +1565,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1623,7 +1623,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1681,7 +1681,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1739,14 +1739,14 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   POSTO PANTANAL CRUZEIRO DO SUL CNPJ:     02.845.415/0001-91        Horário06:00 10:00 10:15 11:00       
     FuncionárioFABIO ROBERTO MELLO ANJINHO -  Admissão: 14/05/2019                Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     10/06/2019 11:04:15                                           
+    Loc.                                      Último     14/06/2019 12:04:33                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Dom -                                                  04:45                                                       
@@ -1797,7 +1797,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1855,7 +1855,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1913,7 +1913,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -1971,7 +1971,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2029,7 +2029,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2087,7 +2087,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2145,7 +2145,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2203,7 +2203,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2261,7 +2261,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2319,13 +2319,13 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   FORGERINI E INOUYE LTDA -      CNPJ:     67.379.743/0002-76        Horário06:00 10:00 11:00 14:20       
     FuncionárioJOAO LUCIO RIGO - 4            Admissão:                           Cargo:                               
-    Loc.rtament                               Últimoênci 12/06/2019 09:09:44      Período16/04/2019 à 19/05/2019       
+    Loc.rtament                               Últimoênci 13/06/2019 08:21:20      Período16/04/2019 à 19/05/2019       
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Ter -    06:02 10:04 11:04* 14:21          07:19 07:19 07:20       ESQUECEU DE PASSAR DIGITAL;                     
@@ -2377,7 +2377,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2435,7 +2435,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2493,7 +2493,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2551,7 +2551,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2609,7 +2609,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2667,7 +2667,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2725,7 +2725,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2783,7 +2783,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2841,7 +2841,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2899,7 +2899,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -2957,7 +2957,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3015,7 +3015,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3073,7 +3073,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3131,7 +3131,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3189,7 +3189,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3247,7 +3247,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3305,7 +3305,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3363,7 +3363,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3421,7 +3421,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3479,7 +3479,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3537,7 +3537,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3595,7 +3595,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3653,7 +3653,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3711,7 +3711,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3769,7 +3769,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3827,7 +3827,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3885,7 +3885,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -3943,7 +3943,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4001,7 +4001,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4059,7 +4059,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4117,7 +4117,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4175,13 +4175,13 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   POSTO PANTANAL FENIX LTDA      CNPJ:     05.654.707/0001-35        Horário06:00 12:00 13:00 18:00       
     FuncionárioTHIAGO RIBEIRO DA SILVA - 141  Admissão:                           Cargo:                               
-    Loc.rtament                               Últimoênci 10/06/2019 11:50:27      Período16/04/2019 à 19/05/2019       
+    Loc.rtament                               Últimoênci 13/06/2019 09:44:44      Período16/04/2019 à 19/05/2019       
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Ter -                                                              Folga;                                          
@@ -4233,7 +4233,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4291,7 +4291,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4349,7 +4349,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4407,7 +4407,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4465,7 +4465,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4523,7 +4523,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4581,7 +4581,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
@@ -4639,14 +4639,14 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
     Empresa:   POSTO PANTANAL CRUZEIRO DO SUL CNPJ:     02.845.415/0001-91        Horário06:00 10:00 10:15 11:00       
     FuncionárioWILLIAN FERRAZ CARNEIRO -      Admissão: 20/04/2019                Cargo:                               
     Departament                               Competênci                          Período16/04/2019 à 19/05/2019       
-    Loc.                                      Último     31/05/2019 10:14:04                                           
+    Loc.                                      Último     13/06/2019 09:00:29                                           
       Data               Marcações              Trab  Trab Carga  DSR                  Ocorrências                     
                                                Normal      Horári                                                      
     Seg -    05:59 09:00 09:15* 11:01          04:45 04:47 04:45       Folga;EU DE PASSAR DIGITAL;                     
@@ -4697,7 +4697,7 @@
 
 
                                                                                                                        
-                                              RELATÓRIO ESPELHO DE PONTO                        12/06/2019 21:20:59    
+                                              RELATÓRIO ESPELHO DE PONTO                        14/06/2019 21:41:48    
                                                       Folha Ponto                                                      
                                                                                                                        
                                                                                                                        
