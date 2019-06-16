@@ -100,6 +100,7 @@ def detect_troca(d):
     vet = ''.join(list(filter( is_util, aux)))
     vet = vet.split('-')
     vet = list(filter( lambda x: x != '', vet))
+    vet = list(filter(lambda x: True if len(x) == 35 else False, vet))
     for dia in vet:
         STR1[get_carga_hr(dia)] = 0
     for dia in vet:
@@ -199,11 +200,10 @@ def coletar_dias(STRING_limpa):
 f.seek(0)
 VET = {}
 for i, j in zip(DADOS_sujo, DADOS_limpo):
-    #F = str(detect_troca(j))
     if coletar_dias(j) <= 0:
         VET.update({str(coletar_nome(i)) + '!': (coletar_dias(j), coletar_posto(i))})
     else:
-        VET.update({str(coletar_nome(i) + '*'): (coletar_dias(j), coletar_posto(i))})
+        VET.update({str(coletar_nome(i) + detect_troca(j)): (coletar_dias(j), coletar_posto(i))})
 STR = pd.DataFrame.from_dict(VET, orient='index', columns=('DIAS', 'POSTO'))
 STR.sort_values('POSTO', inplace=True)
 STR.to_excel('saida.xlsx')
