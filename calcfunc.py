@@ -1,13 +1,23 @@
 # -*- coding: utf-8 -*-
 
+from tkinter import *
+from tkinter import ttk
+from tkinter import messagebox
 import pandas as pd
 from bin.coletar import *
 from bin.detect_troca import *
 
+main = Tk()
+main.title("Valor diário")
+lb1 = ttk.Label(main, text="Valor diário do vale").grid(column=0)
+e1 = Entry(main)
+e1.grid(column=1, pady=10)
+btn1 =
+
 try:
     f = open("relatorio.txt", 'r+', encoding='utf-8')
 except FileNotFoundError:
-    print("Não encontrei o arquivo relatorio.txt, verifique se ele está na mesma pasta que eu..\n")
+    messagebox.showerror("Erro","Não encontrei o arquivo relatorio.txt, verifique se ele está na mesma pasta que eu..")
     exit()
 
 f.seek(0)
@@ -37,7 +47,3 @@ STR = pd.DataFrame.from_dict(VET, orient='index', columns=('DIAS', 'POSTO'))
 STR.sort_values('POSTO', inplace=True)
 STR.to_excel('saida.xlsx')
 
-
-print('ARQUIVO SAIDA GERADO!\n\nsaindo..')
-#os.system('start saida.xlsx')
-#exit()
