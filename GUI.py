@@ -9,11 +9,7 @@ def runf():
     try:
         execfile('calcfunc.py')
     except FileNotFoundError:
-        messagebox.showerror('Erro', 'relatorio.txt não encontrado!')
-    else:
-        messagebox.showinfo("Ok", 'saida.xlsx gerado com sucesso.')
-    finally:
-        print(v)
+        messagebox.showerror('Erro', 'calcfunc.py não encontrado!')
 
 
 def read_me():
@@ -29,7 +25,7 @@ root.title("Calcular dias trabalhados")
 lb1 = ttk.Label(root, text="""Bem-vindo ao programa cálculo funcionário.\nFavor ler as instruções para evitar erros..""").grid(row=0, column=0, ipady=19)
 btn1 = ttk.Button(root, text="Rodar", command=runf).grid(row=3, column=0, sticky=E)
 btn2 = ttk.Button(root, text="LEIA-ME", command=read_me).grid(row=0, column=1, padx=15)
-btn3 = ttk.Button(root, text="Sair", command=root.quit).grid(row=3, column=1, sticky=W)
+btn3 = ttk.Button(root, text="Sair", command=root.destroy).grid(row=3, column=1, sticky=W)
 windowWidth = root.winfo_reqwidth()
 windowHeight = root.winfo_reqheight()
 
