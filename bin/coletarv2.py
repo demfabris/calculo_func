@@ -55,3 +55,13 @@ def coletar_posto(STRING_suja):
         return 8
     elif '00.218.960/0001-22' in STRING_suja:
         return 9
+    else:
+        return 99
+
+
+def coletar_matricula(STRING_limpa):
+    aux = STRING_limpa.split('Funcionário')
+    aux = aux[0]
+    aux = aux.split('-')
+    aux = aux.pop()
+    return str(aux)

@@ -29,19 +29,3 @@ def scan_escala(STRING_limpa):
 
 
 
-
-
-def debug(STRING_limpa):
-    aux = STRING_limpa.split('Empresa:')
-    aux = aux[1]
-    aux = aux.split('CNPJ')
-    aux = aux[0]
-    aux = list(aux)
-    h1 = aux[:5]
-    h2 = aux[15:]
-    h1 = ''.join(h1)
-    h2 = ''.join(h2)
-    print(h1,h2)
-
-
-

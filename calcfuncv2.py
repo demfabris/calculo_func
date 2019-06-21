@@ -9,6 +9,7 @@ from bin.coletarv2 import *
 from bin.detect_trocav2 import *
 import os
 from bin.detect_cesta import *
+from bin.detect_atm import *
 
 
 def abrir():
@@ -42,7 +43,7 @@ main.mainloop()
 VET = {}
 STRING = ''
 try:
-    with open("relatorio.pdf", "rb") as folha:
+    with open("relatorio.pdf", "rb") as folha:                                              ##lendo relatorio e limpando
         f = pdf.PdfFileReader(folha)
         for page in range(f.getNumPages()):
             temp_page = f.getPage(page)
@@ -68,10 +69,10 @@ with open('temp.txt','r+') as file:
 
 for i, j in zip(DADOS_sujo, DADOS_limpo):
     if scan_escala(j) == 1 and coletar_dias(j) > 14:
-        VET.update({str(coletar_nome(i)) + detect_troca(j): (coletar_dias(j), coletar_posto(i), 'R$'+str((coletar_dias(j)+5)*v)+',00', detect_cesta(j))})
+        VET.update({str(coletar_nome(i) + detect_troca(j) + detect_atm(j)): (coletar_matricula(j), str(coletar_dias(j)), 'P' + str(coletar_posto(i)), 'R$'+str((coletar_dias(j)+5)*v)+',00', detect_cesta(j))})
     else:
-        VET.update({str(coletar_nome(i)) + detect_troca(j): (coletar_dias(j), coletar_posto(i), 'R$'+str(coletar_dias(j)*v)+',00', detect_cesta(j))})
-STR = pd.DataFrame.from_dict(VET, orient='index', columns=('DIAS', 'POSTO', 'VALOR', 'CESTA'))
+        VET.update({str(coletar_nome(i) + detect_troca(j) + detect_atm(j)): (coletar_matricula(j), str(coletar_dias(j)), 'P' + str(coletar_posto(i)), 'R$'+str(coletar_dias(j)*v)+',00', detect_cesta(j))})
+STR = pd.DataFrame.from_dict(VET, orient='index', columns=('MATRICULA', 'DIAS', 'POSTO', 'VALOR', 'CESTA'))
 STR.sort_values('POSTO', inplace=True)
 STR.to_excel('saida.xlsx')
 
