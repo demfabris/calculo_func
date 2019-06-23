@@ -1,4 +1,4 @@
-from bin.scan_escalav2 import *
+from bin.scan_escala import *
 from bin.feriados import *
 from bin.hora import transform_hora as transf_hora
 
