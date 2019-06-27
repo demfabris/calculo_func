@@ -5,6 +5,12 @@ from tkinter import ttk
 from tkinter import messagebox
 
 
+def depen():
+    try:
+        import resources.dependencies
+    except FileNotFoundError:
+        messagebox.showerror('Erro', 'Dependências não encontradas na pasta raiz.')
+
 def runf():
     try:
         import calcfunc
@@ -21,11 +27,13 @@ def read_me():
 
 root = Tk()
 root.title("Calcular dias trabalhados")
-#root.iconbitmap('icone.ico')
-lb1 = ttk.Label(root, text="""Bem-vindo ao programa cálculo funcionário.\nFavor ler as instruções para evitar erros..""").grid(row=0, column=0, ipady=19, padx=10, sticky=E)
-btn1 = ttk.Button(root, text="Rodar", command=runf).grid(row=3, column=0, sticky=E, pady=15)
+root.iconbitmap('icone.ico')
+lb1 = ttk.Label(root, text="""Bem-vindo ao programa cálculo funcionário.\nFavor ler as instruções para evitar erros..""").grid(row=0, column=0, ipady=5, padx=10, sticky=E)
+lb2= ttk.Label(root, text="Se estiver rodando pela primeira\n vez instale as dependências: ").grid(row=2, column=0)
+btn1 = ttk.Button(root, text="Rodar", command=runf).grid(row=3, column=0, pady=15,ipadx=35)
 btn2 = ttk.Button(root, text="LEIA-ME", command=read_me).grid(row=0, column=1, padx=15)
-btn3 = ttk.Button(root, text="Sair", command=root.destroy).grid(row=3, column=1, sticky=W)
+btn3 = ttk.Button(root, text="Sair", command=root.destroy).grid(row=3, column=1,padx=35)
+btn4 = ttk.Button(root, text="Dependências", command=depen).grid(row=2, column=1, sticky=N)
 windowWidth = root.winfo_reqwidth()
 windowHeight = root.winfo_reqheight()
 
