@@ -16,8 +16,8 @@ def transform_hora(h):
     elif 'Crédito' in h:
         h = h.replace('Crédito', '')
     aux = h.split(':')
-    if aux[0] == '00':
-        aux[0] = '24'
+    #if aux[0] == '00':
+        #aux[0] = '24'
     aux[1] = (int(aux[1]) * 5) / 3
     aux[1] = int(round(aux[1], 0))
     result = aux[0] + '.' + str(aux[1])

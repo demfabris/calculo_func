@@ -64,3 +64,6 @@ def detect_cesta(t):
     else:
         return 'Não'
 
+
+
+

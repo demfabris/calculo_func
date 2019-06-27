@@ -15,16 +15,19 @@ def scan_escala(STRING_limpa):
     h2 = aux[15:]
     h1 = ''.join(h1)
     h2 = ''.join(h2)
-    result = abs(th(h1) - th(h2))
+    if th(h2) < th(h1):
+        result = abs(th(h1) - th(h2) - 24)
+    else:
+        result = abs(th(h1) - th(h2))
     if result > 11:
         return 1
     elif 8 < result < 10:
         return 2
     elif 4 < result < 6:
         return 3
-    elif 10 <= result < 11:                                 ##ARRUMAR
+    elif 10 <= result < 11:
         return 4
-    elif result == 6:                                           ##ARRUMAR
+    elif result == 6:
         return 5
 
 

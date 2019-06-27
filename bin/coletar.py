@@ -32,11 +32,11 @@ def coletar_dias(STRING_limpa):
         a = round(hora / 4.75 + feriados_trab(STRING_limpa), 0)
         return int(a)
     elif scan_escala(STRING_limpa) == 4:
-        a = round(hora / 8 + feriados_trab(STRING_limpa), 0)
-        return int(a)
+        #a = round(hora / 8 + feriados_trab(STRING_limpa), 0)
+        return(-1)
     elif scan_escala(STRING_limpa) == 5:
-        a = round(hora / 6 + feriados_trab(STRING_limpa), 0)
-        return int(a)
+        #a = round(hora / 6 + feriados_trab(STRING_limpa), 0)
+        return(-1)
     return 0
 
 
