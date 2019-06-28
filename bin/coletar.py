@@ -18,7 +18,7 @@ def coletar_nome(STRING_suja):
 
 
 def coletar_dias(STRING_limpa):
-    aux = STRING_limpa.split('AssinaturadaChefia')
+    aux = STRING_limpa.split('DébitoFalta')
     hora = aux[0].split('TrabalhadaNormal')
     hora = hora[1]
     hora = transf_hora(hora)

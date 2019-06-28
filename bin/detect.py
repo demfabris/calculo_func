@@ -1,4 +1,4 @@
-from bin.hora import get_carga_hr
+from bin.hora import *
 
 
 def detect_troca(d):
@@ -64,6 +64,14 @@ def detect_cesta(t):
     else:
         return 'Não'
 
+
+def falta(STRING_limpa):
+    aux = STRING_limpa.split('DébitoFalta')
+    aux = aux[1]
+    aux = aux.split('AssinaturadaChefia')
+    aux = aux[0]
+    res = transform_hora(aux)
+    return int(res)
 
 
 

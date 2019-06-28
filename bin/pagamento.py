@@ -1,8 +1,9 @@
 from bin.coletar import coletar_dias
 from bin.scan_escala import *
+from bin.detect import falta
 
 
-def pagamento(STRING_limpa, mes):                                                                                                    #'R$'+str(coletar_dias(j)*v)+',00'
+def pagamento(STRING_limpa, mes):
     t1 =['Janeiro', 'Março', 'Maio', 'Julho', 'Agosto', 'Outubro', 'Dezembro']
     t2 =['Fevereiro']
     t0 = ['Abril', 'Junho', 'Setembro', 'Novembro']
@@ -14,8 +15,11 @@ def pagamento(STRING_limpa, mes):                                               
     elif mes in t0:
         t_hold = 14
     if scan_escala(STRING_limpa) == 1 and coletar_dias(STRING_limpa) >= t_hold:
-        if 'ATM' or 'DiaJustificado' not in STRING_limpa:
-            return 20
+        if ('ATM' or 'DiaJustificado') not in STRING_limpa:
+            if falta(STRING_limpa) == 0:
+                return 20
+            else:
+                return coletar_dias(STRING_limpa)
         else:
             return coletar_dias(STRING_limpa)
     else:
