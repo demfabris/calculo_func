@@ -1,0 +1,4 @@
+echo off
+ECHO "CERTIFIQUE-SE QUE O SISTEMA TEM PYTHON INSTALADO"
+pause
+python -B GUI.py

@@ -27,7 +27,7 @@ def read_me():
 
 root = Tk()
 root.title("Calcular dias trabalhados")
-#root.iconbitmap('icone.ico')
+root.iconbitmap('icone.ico')
 lb1 = ttk.Label(root, text="""Bem-vindo ao programa cálculo funcionário.\nFavor ler as instruções para evitar erros..""").grid(row=0, column=0, ipady=5, padx=10, sticky=E)
 lb2= ttk.Label(root, text="Se estiver rodando pela primeira\n vez instale as dependências: ").grid(row=2, column=0)
 btn1 = ttk.Button(root, text="Rodar", command=runf).grid(row=3, column=0, pady=15,ipadx=35)

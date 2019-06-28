@@ -4,6 +4,8 @@ from bin.hora import transform_hora as th
 def scan_escala(STRING_limpa):
     if STRING_limpa.count('Horário') > 2:
         return 0
+    if 'HorárioDiário' in STRING_limpa:
+        return 2
     aux = STRING_limpa.split('Empresa:')
     aux = aux[1]
     aux = aux.split('CNPJ')
